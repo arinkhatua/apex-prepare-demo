@@ -6,9 +6,7 @@
 			"name": "ASDM_map_large.jpg",
 			"guid": "2bca3e76-1656-4044-8338-b0ca7121bc7b",
 			"file_size": 1223509,
-			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1731452392/apex/account_images/file/291e7a94-e19f-4d28-9708-9a956f2d05a4-a-ASDM_map_large.jpg.jpg",
-			"height": 1364,
-			"width": 1613
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1731452392/apex/account_images/file/291e7a94-e19f-4d28-9708-9a956f2d05a4-a-ASDM_map_large.jpg.jpg"
 		},
 		{
 			"filestorage_id": "cloudinary://apex/account_images/file/a5941d58-ff45-4a87-828f-4925a0fdc63a-a-ASM-coyote.jpg",
@@ -33,9 +31,7 @@
 			"name": "4SMLogoBlue.png",
 			"guid": "1e767074-0618-4dc8-81da-ed47d8d2c11b",
 			"file_size": 15865,
-			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1731453465/apex/account_images/file/48e06832-8dd0-46ba-a085-da133895773a-a-4SMLogoBlue.png.png",
-			"height": 1198,
-			"width": 1043
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1731453465/apex/account_images/file/48e06832-8dd0-46ba-a085-da133895773a-a-4SMLogoBlue.png.png"
 		},
 		{
 			"filestorage_id": "cloudinary://apex/account_images/file/2057d9c3-06e2-4e14-a924-163c94b59053-a-4sm-image8_psd.jpg",
