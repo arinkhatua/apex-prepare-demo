@@ -6,9 +6,7 @@
 			"name": "ASDM_map_large.jpg",
 			"guid": "2bca3e76-1656-4044-8338-b0ca7121bc7b",
 			"file_size": 1223509,
-			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1731452392/apex/account_images/file/291e7a94-e19f-4d28-9708-9a956f2d05a4-a-ASDM_map_large.jpg.jpg",
-			"height": 1364,
-			"width": 1613
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1731452392/apex/account_images/file/291e7a94-e19f-4d28-9708-9a956f2d05a4-a-ASDM_map_large.jpg.jpg"
 		},
 		{
 			"filestorage_id": "cloudinary://apex/account_images/file/a5941d58-ff45-4a87-828f-4925a0fdc63a-a-ASM-coyote.jpg",
@@ -24,9 +22,7 @@
 			"name": "Arizona-Sonora-Desert-Museum-Photo-Op.jpg",
 			"guid": "f1e1ba56-af46-4e83-aec9-4ec2737fe5a1",
 			"file_size": 1369763,
-			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1731453367/apex/account_images/file/8115697c-05de-48ea-88e4-03ee7f1db264-a-Arizona-Sonora-Desert-Museum-Photo-Op.jpg.jpg",
-			"height": 2205,
-			"width": 3329
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1731453367/apex/account_images/file/8115697c-05de-48ea-88e4-03ee7f1db264-a-Arizona-Sonora-Desert-Museum-Photo-Op.jpg.jpg"
 		},
 		{
 			"filestorage_id": "cloudinary://apex/account_images/file/48e06832-8dd0-46ba-a085-da133895773a-a-4SMLogoBlue.png",
@@ -42,9 +38,7 @@
 			"name": "4sm-image8_psd.jpg",
 			"guid": "40422544-9073-4362-b717-f67f394019bc",
 			"file_size": 161466,
-			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1731453538/apex/account_images/file/2057d9c3-06e2-4e14-a924-163c94b59053-a-4sm-image8_psd.jpg.jpg",
-			"height": 750,
-			"width": 750
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1731453538/apex/account_images/file/2057d9c3-06e2-4e14-a924-163c94b59053-a-4sm-image8_psd.jpg.jpg"
 		},
 		{
 			"filestorage_id": "cloudinary://apex/account_images/file/b4b36bc8-bff7-4be1-b100-30f417253e6f-a-4sm-Native-Son-502-Edit.jpg",
@@ -66,9 +60,7 @@
 			"name": "Bike-Race.jpg",
 			"guid": "a0692ad6-80f7-404e-89a4-dd2d90704e2d",
 			"file_size": 135749,
-			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720475019/apex/account_images/file/1c73c9eb-905c-4f23-bc3e-f571e6c70c6b-a-Bike-Race.jpg.jpg",
-			"height": 800,
-			"width": 800
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720475019/apex/account_images/file/1c73c9eb-905c-4f23-bc3e-f571e6c70c6b-a-Bike-Race.jpg.jpg"
 		},
 		{
 			"filestorage_id": "cloudinary://apex/account_images/file/971d2aa3-d726-44a0-a3f0-650d117d0291-a-Night-Shot-with-Stars_night.jpg",
